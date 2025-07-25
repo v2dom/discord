@@ -21,7 +21,7 @@ A lightweight overlay that displays discord voice chat participants on a seconda
 ### windows - winget
 
 ```
-git clone https://github.com/{your-repo}/discord.git
+git clone https://github.com/v2dom/discord.git
 cd discord
 npm install
 npm start
